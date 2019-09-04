@@ -1,0 +1,3 @@
+DCTMBasics version 1.3
+(C) 2015 MS Roth
+http://msroth.wordpress.com
